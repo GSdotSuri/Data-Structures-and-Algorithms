@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q3CheckLowercaseOrUppercase {
+public class Q03CheckLowercaseOrUppercase {
 
     public static String checkCase(char ch) {
         String case_type;

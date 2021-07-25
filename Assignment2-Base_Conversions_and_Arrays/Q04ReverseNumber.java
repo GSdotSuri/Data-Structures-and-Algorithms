@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q4ReverseNumber {
+public class Q04ReverseNumber {
 
     public static int reverseDigits(int n) {
         int ans = 0, temp = 0;

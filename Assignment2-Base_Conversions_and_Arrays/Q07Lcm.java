@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q7Lcm {
+public class Q07Lcm {
     public static int lcmTwoNoscm(int a, int b) {
         int i, ans;
         int max_num = Math.max(a, b);

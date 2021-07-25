@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q8CountMultipleOf5 {
+public class Q08CountMultipleOf5 {
 
     public static int countMultiples(int arr[]) {
         int i, count = 0;

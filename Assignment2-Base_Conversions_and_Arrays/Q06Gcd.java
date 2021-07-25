@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q6Gcd {
+public class Q06Gcd {
 
     public static int getGcd(int num1, int num2) {
         int ans = 0;
@@ -44,13 +44,11 @@ public class Q6Gcd {
             } else if (num1 < 0) {
                 num1 = num1 * -1;
                 gcd = getGcd(num1, num2);
-              } 
-            else if (num2 < 0) {
+            } else if (num2 < 0) {
                 num2 = num2 * -1;
-                gcd = -1*getGcd(num1, num2);
+                gcd = -1 * getGcd(num1, num2);
             }
-        }
-        else{
+        } else {
             gcd = getGcd(num1, num2);
         }
 

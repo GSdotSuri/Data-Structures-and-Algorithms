@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Q9CountPrimesInArray
  */
-public class Q9CountPrimesInArray {
+public class Q09CountPrimesInArray {
     public static Boolean checkPrime(int n) {
 
         if (n <= 1)

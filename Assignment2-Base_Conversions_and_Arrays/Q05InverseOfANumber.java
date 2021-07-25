@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q5InverseOfANumber {
+public class Q05InverseOfANumber {
     public static int hasDuplicates(int n) {
         int count_arr[] = new int[10];
         int count = 0, last_digit = 0;

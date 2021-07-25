@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q2CalculatorWithSwitchCases {
+public class Q02CalculatorWithSwitchCases {
 
     public static double calculateOperation(double a, double b, String ch) {
         double ans = 0;

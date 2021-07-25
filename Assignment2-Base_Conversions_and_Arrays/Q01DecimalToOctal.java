@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q1DecimalToOctal {
+public class Q01DecimalToOctal {
 
     public static int decimalToOctalBase(int n) {
         int ans = 0;
