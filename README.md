@@ -8,4 +8,4 @@ Alongside basic problems, this repo will also contain most commonly asked and mu
 I have a target of solving more than 300 questions from LeetCode.<br>
 <b>NOTE: You may find multiple solution codes for the same problem.</b><br>
 
-Not only intermediate coders, even those who have recently started with DS and Algo can also refer this repository and follow the same path as mine. :star: :star:
+Not only intermediate coders, even those who have recently started with DS and Algo can also refer this repository and follow the same path as mine. :star::star:
