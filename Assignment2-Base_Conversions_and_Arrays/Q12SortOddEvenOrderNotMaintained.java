@@ -33,7 +33,7 @@ public class Q12SortOddEvenOrderNotMaintained {
         int noe = sc.nextInt();
         int[] arr = new int[noe];
         for (int arr_index = 0; arr_index < noe; arr_index++) {
-            System.out.println(String.format("Enter the %dth value in the array", arr_index + 1));
+            System.out.println(String.format("Enter the %d th value in the array", arr_index + 1));
             arr[arr_index] = sc.nextInt();
         }
         System.out.println("Original Array");
